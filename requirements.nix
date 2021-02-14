@@ -31,7 +31,7 @@ let
           pythonPackages.scikitimage
           pythonPackages.scikitlearn
           pythonPackages.pywavelets
-          pythonPackages.pytorch
+          pythonPackages.pytorchWithCuda
           pythonPackages.numpy
           pythonPackages.scipy
           pythonPackages.pandas
